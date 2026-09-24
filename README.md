@@ -4,10 +4,6 @@
 
 **An interactive Excel dashboard I built as the capstone for the "Data Analysis Using Excel" course on Hash Plus — tracking a week-long book fair's sales, revenue, and visitors across publishers, categories, pavilions, and cities.**
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-4479A1?style=for-the-badge)
-![Dashboard](https://img.shields.io/badge/Dashboard-8A2BE2?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Complete-2EA44F?style=for-the-badge)
 
 </div>
 
@@ -94,7 +90,7 @@ flowchart LR
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+<img width="410" height="258" alt="لقطة شاشة 2026-09-24 150500" src="https://github.com/user-attachments/assets/9521a196-ca2d-4da6-a56f-f85a6104d0b8" />
 
 ## Skills Demonstrated
 
@@ -111,4 +107,4 @@ flowchart LR
 Computer Science Student | Data Analysis & Software Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wajd-al-luhaibi-9194a1396)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wajdalharbics@gmail.com)
+
